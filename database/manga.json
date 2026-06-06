@@ -1,0 +1,46 @@
+{
+  "manga_id": "manga_dragonslayer_peerless_regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": [
+    "Dragon Slayer's Peerless Regression",
+    "Return of the Unrivaled Dragon Slayer"
+  ],
+  "status": "Ongoing",
+  "author": "Kiki",
+  "artist": "N/A",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Bahkan setelah memotong kepala naga terkuat dan mengakhiri perang panjang, pahlawan kita tidak menemukan kedamaian. Dikhianati dan dibiarkan mati, ia terbangun di masa lalu sebelum tragedi dimulai. Dengan ingatan masa lalunya dan kekuatan yang melampaui akal sehat, ia bersumpah untuk mengubah nasib dunia dan menghancurkan siapa pun yang menghalanginya.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer_peerless.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The Fall of the Dragon",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch001/01.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch001/02.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch001/03.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch001/04.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch001/05.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Reawakening in the Past",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch002/01.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch002/02.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch002/03.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch002/04.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga_dragonslayer_peerless_regression/ch002/05.jpg"
+      ]
+    }
+  ]
+}
