@@ -19,5 +19,19 @@
     "category": "Action",
     "cover_url": "https://raw.githubusercontent.com/AngwenNatasia/monstadata/main/covers/My Exclusive Tower Guide.jpg",
     "cbz_url": "https://raw.githubusercontent.com/AngwenNatasia/monstadata/main/Action/My%20Exclusive%20Tower%20Guide.cbz"
+  },
+  {
+    "id": "Sword God_s Livestream",
+    "title": "Sword God S Livestream",
+    "category": "Adventure",
+    "cover_url": "https://raw.githubusercontent.com/AngwenNatasia/monstadata/main/covers/Sword God_s Livestream.jpg",
+    "cbz_url": "https://raw.githubusercontent.com/AngwenNatasia/monstadata/main/Adventure/Sword%20God_s%20Livestream.cbz"
+  },
+  {
+    "id": "The Heavenly Demon Wants a Quiet Life",
+    "title": "The Heavenly Demon Wants A Quiet Life",
+    "category": "Adventure",
+    "cover_url": "https://raw.githubusercontent.com/AngwenNatasia/monstadata/main/covers/The Heavenly Demon Wants a Quiet Life.jpg",
+    "cbz_url": "https://raw.githubusercontent.com/AngwenNatasia/monstadata/main/Adventure/The%20Heavenly%20Demon%20Wants%20a%20Quiet%20Life.cbz"
   }
 ]
